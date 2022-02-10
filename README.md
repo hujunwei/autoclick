@@ -1,4 +1,4 @@
-# autoclick
+# windows autoclick
 
 1. install python 2.7
 2. pip install pymouse
