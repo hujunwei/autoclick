@@ -4,3 +4,4 @@
 2. pip install pymouse
 3. pip install pyhook, from http://www.lfd.uci.edu/~gohlke/pythonlibs/
 4. pip install pyuserinput
+5. pip install pypiwin32

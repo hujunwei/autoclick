@@ -2,6 +2,7 @@
 # pip install pymouse
 # pip install pyhook, from http://www.lfd.uci.edu/~gohlke/pythonlibs/
 # pip install pyuserinput
+# pip install pypiwin32
 
 from pymouse import PyMouse
 import time
